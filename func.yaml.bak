@@ -12,6 +12,6 @@ config:
   ADB_OCID: ocid1.autonomousdatabase.oc1.sa-santiago-1.anzwgljribqsjfyaeakotfzyfcos6it2vgifpqrmsu3bngrv37ewaa2n3esa
   COMPANY: MOX IT
   DBPWD: Linux511Linux511_
-  DBSVC: functionadb_high
+  DBSVC: gc1b7e9713c90be_functionadb_high
   DBUSER: ADMIN
   TNS_ADMIN: /tmp/dbwallet
